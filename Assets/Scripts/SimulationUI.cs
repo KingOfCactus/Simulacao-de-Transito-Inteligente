@@ -58,9 +58,11 @@ public class SimulationUI : MonoBehaviour
             {
                 slides[i].SetActive(false);
                 i += (int)Input.GetAxisRaw("Horizontal");
+                if (i == slides.Length)
+                    continue;
 
-                if (i < slides.Length)
-                    slides[i].SetActive(true);
+                i = Mathf.Max(0, i);
+                slides[i].SetActive(true);
             }
         }
 
