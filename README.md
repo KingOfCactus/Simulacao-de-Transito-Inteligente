@@ -1,4 +1,4 @@
-# Simulação de Trânsito Inteligente [Protótipo]
+# Simulação de Trânsito Inteligente — Protótipo
 <p align="center">
 	<img src="GitHub/simulation.gif"; width=800pm;>
 </p>
@@ -19,7 +19,7 @@ A simulação ocorre em um cruzamento, sendo que cada rua têm uma frequência d
 No modo inteligente, porém, não é usado uma quantidade de tempo fixa para abrir e fechar os semáforos. É aberto o semáforo que tiver maior prioridade, sendo essa calculada pela multiplicação da quantia de carros parados pelo tempo em que o sinal ficou fechado.
 
 <p align="center">
-	<img src="GitHub/smart.mp4"; width=800pm;>
+	<img src="GitHub/smart.gif"; width=800pm;>
 </p>
 
 ## Créditos
@@ -28,7 +28,7 @@ Para criação dessa simulação, foram usados a [Unity](https://unity.com/pt) (
 
 <p align="center">
 
-|   **`Integrante`**   |   **`Contribuição`**   |
+ |   **INTEGRANTE**    |    **CONTRIBUIÇÃO**    |
 | :------------------- | ---------------------: |
 | **Caio Ferreira**    | Pesquisa               |
 | **Vinicius Silva**   | Pesquisa               |
