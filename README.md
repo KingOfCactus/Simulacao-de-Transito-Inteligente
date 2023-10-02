@@ -30,7 +30,7 @@ Para criação dessa simulação, foram usados a [Unity](https://unity.com/pt) (
 
  |   **INTEGRANTE**    |    **CONTRIBUIÇÃO**    |
 | :------------------- | ---------------------: |
-| **Caio Ferreira**    | Pesquisa               |
+| **Caio Ferreira**    | Pesquisa e Construção  |
 | **Vinicius Silva**   | Pesquisa               |
 | **Leonardo Diogo**   | Construção             |
 | **Lucas Ayolphi**    | Pesquisa               |
