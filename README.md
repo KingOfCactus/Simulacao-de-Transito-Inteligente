@@ -34,7 +34,7 @@ Para criação dessa simulação, foram usados a [Unity](https://unity.com/pt) (
 | **Vinicius Silva**   					    | Pesquisa               |
 | **[Leonardo Diogo](https://github.com/LeonardoBuzelin/)** | Construção             |
 | **Lucas Ayolphi**    					    | Pesquisa               |
-| **Nicolas Oliveira** 					    | Pesquisa e Construção  |
+| **[Nicolas Oliveira](https://github.com/NicolasGoldner)** | Pesquisa e Construção  |
 | **[Victor Hugo](https://github.com/KingOfCactus/)**       | Pesquisa e Programação |
 | **Will Emmanuel**    					    | Construção             |
 | **João Paulo**       				            | Pesquisa               |
